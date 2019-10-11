@@ -1,0 +1,16 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Engine3
+Ns 249.019608
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 9
+map_Bump -bm 0.350042 Engine3_Normal.png
+map_Kd Engine3_Albedo.png
+map_Ns Engine3_Rough.png
+map_d Engine3_Albedo.png
