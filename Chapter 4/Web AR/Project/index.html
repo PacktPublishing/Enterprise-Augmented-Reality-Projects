@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>AR Training Web App</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <h1>Select a gearbox to display in AR</h1>
+    <div class="box">
+      <h2>Planetary Gearbox</h2>
+      <model-viewer
+        src="https://cdn.glitch.com/6f8eb042-0e74-4182-9d39-4f877746edb1%2Fgerabox_planetary.glb?v=1566506940560"
+        alt="Planetary Gearbox"
+        background-color="#42697b"
+        auto-rotate
+        camera-controls
+        ar
+      ></model-viewer>
+      <div class="cc">
+        <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">
+          <img
+            src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
+          />
+          <img
+            src="https://mirrors.creativecommons.org/presskit/icons/by.svg"
+          />
+        </a>
+        &nbsp;&nbsp;
+        <a
+          href="https://sketchfab.com/3d-models/gearbox-planetary-2bee7992d266456aaef1f1394b0ebb98"
+          target="_blank"
+          >T-FLEX CAD ST (Free)</a
+        >
+      </div>
+    </div>
+    <div class="box">
+      <h2>Worm Gearbox</h2>
+      <model-viewer
+        src="https://cdn.glitch.com/6f8eb042-0e74-4182-9d39-4f877746edb1%2Fgearbox_worm.glb?v=1566506941410"
+        alt="Worm Gearbox"
+        background-color="#42697b"
+        auto-rotate
+        camera-controls
+        ar
+      ></model-viewer>
+      <div class="cc">
+        <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">
+          <img
+            src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
+          />
+          <img
+            src="https://mirrors.creativecommons.org/presskit/icons/by.svg"
+          />
+        </a>
+        &nbsp; &nbsp;
+        <a
+          href="https://sketchfab.com/3d-models/warm-gearbox-e7fedd86a90b4c46a53fe88882e66aa3"
+          target="_blank"
+          >T-FLEX CAD ST (Free)</a
+        >
+      </div>
+    </div>
+    <div class="box">
+      <h2>Conical Gearbox</h2>
+      <model-viewer
+        src="https://cdn.glitch.com/6f8eb042-0e74-4182-9d39-4f877746edb1%2Fgearbox_conical.glb?v=1566506963689"
+        alt="Conical Gearbox"
+        background-color="#42697b"
+        auto-rotate
+        camera-controls
+        ar
+      ></model-viewer>
+      <div class="cc">
+        <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">
+          <img
+            src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
+          />
+          <img
+            src="https://mirrors.creativecommons.org/presskit/icons/by.svg"
+          />
+        </a>
+        &nbsp; &nbsp;
+        <a
+          href="https://sketchfab.com/3d-models/gearbox-conical-60f023924ee0456daa758eb590b6064b"
+          target="_blank"
+          >T-FLEX CAD ST (Free)</a
+        >
+      </div>
+    </div>
+
+    <script
+      type="module"
+      src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"
+    ></script>
+  </body>
+</html>
