@@ -1,6 +1,7 @@
 package com.banana.arprototype;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 
 import android.net.Uri;
@@ -19,18 +20,16 @@ import com.google.ar.sceneform.math.Quaternion;
 import com.google.ar.sceneform.math.Vector3;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private ArFragment arFragment;
     private ModelRenderable modelRenderable;
     private ModelRenderable modelRenderable2;
     private ModelRenderable modelRenderable3;
     private ModelRenderable currentRenderable;
-
     private Anchor anchor;
     private AnchorNode anchorNode;
     private TransformableNode model;
-
     private ImageButton button1;
     private ImageButton button2;
     private ImageButton button3;
@@ -59,18 +58,19 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 .thenAccept(renderable -> modelRenderable2 = renderable)
                 .exceptionally(
                         throwable -> {
-                            Toast toast = Toast.makeText(this, "Unable to load the model", Toast.LENGTH_LONG);
+                            Toast toast = Toast.makeText(this, "Unable to load andy renderable", Toast.LENGTH_LONG);
                             toast.setGravity(Gravity.CENTER, 0, 0);
                             toast.show();
                             return null;
                         });
+
         ModelRenderable.builder()
                 .setSource(this, Uri.parse("engine3.sfb"))
                 .build()
                 .thenAccept(renderable -> modelRenderable3 = renderable)
                 .exceptionally(
                         throwable -> {
-                            Toast toast = Toast.makeText(this, "Unable to load the model", Toast.LENGTH_LONG);
+                            Toast toast = Toast.makeText(this, "Unable to load andy renderable", Toast.LENGTH_LONG);
                             toast.setGravity(Gravity.CENTER, 0, 0);
                             toast.show();
                             return null;
@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         arFragment.setOnTapArPlaneListener(
                 (HitResult hitResult, Plane plane, MotionEvent motionEvent) -> {
-                    if (currentRenderable == null)
+                    if (modelRenderable == null)
                         return;
 
                     //Remove previous anchor
@@ -90,11 +90,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         anchorNode = null;
                     }
 
-                    anchor = hitResult.createAnchor();
-                    anchorNode = new AnchorNode(anchor);
+                     anchor = hitResult.createAnchor();
+                     anchorNode = new AnchorNode(anchor);
                     anchorNode.setParent(arFragment.getArSceneView().getScene());
 
-                    model = new TransformableNode(arFragment.getTransformationSystem());
+                     model = new TransformableNode(arFragment.getTransformationSystem());
                     model.setLocalScale(new Vector3(0.55f, 0.55f, 0.55f));
                     model.setLocalRotation(Quaternion.eulerAngles(new Vector3(-90,45,0)));
                     model.setParent(anchorNode);
@@ -137,3 +137,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         model.setRenderable(currentRenderable);
     }
 }
+
