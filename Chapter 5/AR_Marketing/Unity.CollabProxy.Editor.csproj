@@ -251,29 +251,23 @@
     <Reference Include="UnityEditor.Android.Extensions">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Book/Chapter 5/AR_Marketing/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Book/Chapter 5/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Book/Chapter 5/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Book/Chapter 5/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Book/Chapter 5/AR_Marketing/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
-    </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="EasyAR.Unity.Editor">
-      <HintPath>Assets/EasyAR/Scripts/Editor/EasyAR.Unity.Editor.dll</HintPath>
+    <Reference Include="UnityEditor.Advertisements">
+      <HintPath>C:/Book/Chapter5/AR_Marketing/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
-    <Reference Include="EasyAR.Unity">
-      <HintPath>Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>C:/Book/Chapter5/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>C:/Book/Chapter5/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>C:/Book/Chapter5/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>C:/Book/Chapter5/AR_Marketing/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2019.1.2f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
@@ -650,13 +644,20 @@
     <Compile Include="Packages\com.unity.collab-proxy\Editor\Collab\Views\StatusView.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\EasyAR\Resources\Shaders\RealityPlane.shader" />
-    <None Include="Assets\EasyAR\Resources\Shaders\TransparentVideo.shader" />
+    <None Include="Assets\EasyAR\Shaders\bgr.shader" />
+    <None Include="Assets\EasyAR\Shaders\gray.shader" />
+    <None Include="Assets\EasyAR\Shaders\yuv_i420_yv12.shader" />
+    <None Include="Assets\EasyAR\Shaders\yuv_nv12.shader" />
+    <None Include="Assets\EasyAR\Shaders\yuv_nv21.shader" />
     <None Include="Assets\EasyAR\doc\changelog.cn.txt" />
     <None Include="Assets\EasyAR\doc\changelog.en.txt" />
     <None Include="Assets\EasyAR\doc\readme.cn.txt" />
     <None Include="Assets\EasyAR\doc\readme.en.txt" />
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+    <None Include="Assets\Samples\Resources\HelloAR_Coloring3D\Shaders\TextureSample.shader" />
+    <None Include="Assets\Samples\Resources\HelloAR_ImageTarget_Video\VideoURL.txt" />
+    <None Include="Assets\Samples\Resources\HelloAR_TransparentVideo\Shaders\TransparentVideo.shader" />
+    <None Include="Assets\Samples\Resources\HelloAR_TransparentVideo\TransparentVideoURL.txt" />
     <None Include="Packages\com.unity.analytics\DataPrivacy\Unity.Analytics.DataPrivacy.asmdef" />
     <None Include="Packages\com.unity.analytics\Tests\Editor\Unity.Analytics.StandardEvents\Unity.Analytics.StandardEvents.EditorTests.asmdef" />
     <None Include="Packages\com.unity.analytics\Tests\Runtime\DataPrivacy\Unity.Analytics.DataPrivacy.Tests.asmdef" />

@@ -1,3 +1,47 @@
+3.0.1
+* add support of YUY2 and I420 pixel formats for cameras on Windows to reduce the possibility of black screen
+* fix the crash at glDrawArrays in Objective-C samples, which is caused by dependent states of multiple instances of Renderer
+* add support for png of 16-bit per channel
+* fix texture coordinate problem with non-OpenGLES or screen rotation in Unity HelloAR_Coloring3D sample
+* fix autofocus problem with Unity samples
+* fix Unity samples for the problem that models are visible on startup and only disappear after a while
+* remove initialization success banner from Unity samples
+* add support for a secondary camera in Unity samples (ex. on Windows/Mac, a USB camera in addition to the built-in camera)
+* rename ExternalCamera to CustomCamera to reduce ambiguity
+
+3.0.0
+++ a more flexible dataflow-oriented component-based API
+++ Surface Tracking
++ Image target data generation
++ language binding: C# for .Net/Mono
++ language binding: update C++11 to C++17
++ language binding: update Kotlin/Swift and support Optional
++ Unity plugin rewrite and open-source, unify low-level API with non-Unity APIs
++ Unity plugin Coloring3D sample static image snapshot rendering support
++ Unity plugin UI hints for common problems like invalid key
++ Android ARM64 support
++ non-OpenGLES2 rendering API support (rendering API neutral except for VideoPlayer and Recorder)
++ external camera interoperability
++ external algorithm interoperability
++ package size reduction
+- remove QRCode recognition
+- remove Renderer, sample rendering code are provided for various platforms
+* support in-memory image target loading
+* support https in CloudRecognizer (on Android and iOS)
+* add support for Camera2 on Android
+* fix crash for recording on Android 9.0
+* support Unity 5.6, 2017.4, 2018.4, 2019.1 and stop support for versions lower than 5.6
+* stop support for iOS 7 and lower
+* use CommandBuffer to draw camera background in Unity plugin
+* fix some stability problems
+
+2.3.0
++ optimized image tracking
++ improved security when connecting EasyAR CRS
+* fixed ARSceneTracker crash when stop on Android 8 and later
+* fixed black screen on Unity 2018 Android/iOS/Mac build
+* fixed crash on iPhone XS/XS Max
+
 2.2.0
 + optimized image tracking
 + added new API for ImageTracker mode selection

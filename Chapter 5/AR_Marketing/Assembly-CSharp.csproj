@@ -63,48 +63,58 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\@MyAssets\Scripts\MainController.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\ARBuilder.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\ARCameraBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\ARSceneBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\ARSceneTrackerBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\CameraDeviceBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\CloudRecognizerBehaviour.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\ARMaterial.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\ARSession.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\ARShader.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\CameraImageRenderer.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\CloudRecognizeBehaviour.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\csapi.cs" />
     <Compile Include="Assets\EasyAR\Scripts\EasyARBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\ImageTargetBehaviour.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\EasyARSettings.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\GUIPopup.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\ImageTargetController.cs" />
     <Compile Include="Assets\EasyAR\Scripts\ImageTrackerBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\ObjectTargetBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\ObjectTrackerBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\QRCodeScannerBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\RealityPlaneBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\RecorderBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\RenderCameraBehaviour.cs" />
-    <Compile Include="Assets\EasyAR\Scripts\VideoPlayerBehaviour.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\SurfaceTargetController.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\SurfaceTrackerBehaviour.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\TouchController.cs" />
+    <Compile Include="Assets\EasyAR\Scripts\Utility.cs" />
+    <Compile Include="Assets\Samples\Resources\HelloAR_Coloring3D\Scripts\Coloring3D.cs" />
+    <Compile Include="Assets\Samples\Resources\HelloAR_TargetOnFly\Scripts\FilesManager.cs" />
+    <Compile Include="Assets\Samples\Resources\HelloAR_TargetOnFly\Scripts\ImageTargetManager.cs" />
+    <Compile Include="Assets\Samples\Resources\HelloAR_TargetOnFly\Scripts\TargetOnTheFly.cs" />
+    <None Include="Assets\EasyAR\doc\readme.cn.txt" />
+    <None Include="Assets\EasyAR\Shaders\yuv_nv21.shader" />
+    <None Include="Assets\EasyAR\Shaders\yuv_i420_yv12.shader" />
+    <None Include="Assets\EasyAR\Shaders\gray.shader" />
+    <None Include="Assets\Samples\Resources\HelloAR_TransparentVideo\Shaders\TransparentVideo.shader" />
+    <None Include="Assets\Samples\Resources\HelloAR_Coloring3D\Shaders\TextureSample.shader" />
+    <None Include="Assets\EasyAR\doc\changelog.cn.txt" />
+    <None Include="Assets\Samples\Resources\HelloAR_ImageTarget_Video\VideoURL.txt" />
+    <None Include="Assets\EasyAR\Shaders\bgr.shader" />
     <None Include="Assets\EasyAR\doc\readme.en.txt" />
     <None Include="Assets\EasyAR\doc\changelog.en.txt" />
-    <None Include="Assets\EasyAR\doc\readme.cn.txt" />
-    <None Include="Assets\EasyAR\Resources\Shaders\TransparentVideo.shader" />
-    <None Include="Assets\EasyAR\doc\changelog.cn.txt" />
-    <None Include="Assets\EasyAR\Resources\Shaders\RealityPlane.shader" />
+    <None Include="Assets\Samples\Resources\HelloAR_TransparentVideo\TransparentVideoURL.txt" />
+    <None Include="Assets\EasyAR\Shaders\yuv_nv12.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/CTIC_CXO/Desktop/CODIGO FINAL/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/CTIC_CXO/Desktop/CODIGO FINAL/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/CTIC_CXO/Desktop/CODIGO FINAL/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/CTIC_CXO/Desktop/CODIGO FINAL/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/CTIC_CXO/Desktop/CODIGO FINAL/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/CTIC_CXO/Desktop/CODIGO FINAL/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/CTIC_CXO/Desktop/CODIGO FINAL/Chapter 5/Project/AR_Marketing/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -286,17 +296,14 @@
     <Reference Include="Vuforia.UnityExtensions">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.2f1/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
-    <Reference Include="EasyAR.Unity">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/CTIC_CXO/Desktop/CODIGO FINAL/Chapter 5/Project/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/CTIC_CXO/Desktop/CODIGO FINAL/Chapter 5/Project/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/CTIC-ADMIN/Desktop/Book_Code/Chapter 5/Project/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/CTIC_CXO/Desktop/CODIGO FINAL/Chapter 5/Project/AR_Marketing/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

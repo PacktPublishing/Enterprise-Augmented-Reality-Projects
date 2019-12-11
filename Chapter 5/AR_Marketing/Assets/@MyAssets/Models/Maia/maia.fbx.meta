@@ -1,27 +1,380 @@
 fileFormatVersion: 2
-guid: c677a95ec592d694189c2f951373a42e
+guid: 0e2efff95381984468723aad16cb4f33
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable:
   - first:
-      74: 1827226128182048838
-    second: Take 001
-  externalObjects:
+      74: -6039239952407548670
+    second: asiento|asiento|Take 001|BaseLayer
   - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: plastico
-    second: {fileID: 2100000, guid: 1ba22d3721351014da6098702a6fcdfd, type: 2}
+      74: -960597201465749794
+    second: asiento|casquillo alien|Take 001|BaseLayer
   - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: tela
-    second: {fileID: 2100000, guid: 10f4876c3f30c754c8ebe39f6fc835d3, type: 2}
+      74: -2248630266811459755
+    second: asiento|nuevo asiento maia v37 sin nervios 4_1|Take 001|BaseLayer
   - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: tornillo
-    second: {fileID: 2100000, guid: f4b7e0751e695824d9da6165286d4f8f, type: 2}
+      74: -6585469118655641525
+    second: asiento|nuevo asiento maia v37 sin nervios 4_3|Take 001|BaseLayer
+  - first:
+      74: 6459674230053448190
+    second: asiento|nuevo asiento maia v37 sin nervios 4|Take 001|BaseLayer
+  - first:
+      74: -74324251323674005
+    second: "asiento|Simetr\xEDacasquillo alien|Take 001|BaseLayer"
+  - first:
+      74: -2026193862100692823
+    second: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+  - first:
+      74: -5324423585312669226
+    second: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+  - first:
+      74: -968263097061289790
+    second: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+  - first:
+      74: 4932292260101611384
+    second: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+  - first:
+      74: 1879563640781923479
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|asiento|Take
+      001|BaseLayer
+  - first:
+      74: 3885516467545396254
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|casquillo alien|Take
+      001|BaseLayer
+  - first:
+      74: -544923046264994449
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|nuevo asiento
+      maia v37 sin nervios 4_1|Take 001|BaseLayer
+  - first:
+      74: 2767657853384911306
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|nuevo asiento
+      maia v37 sin nervios 4_3|Take 001|BaseLayer
+  - first:
+      74: -8586175222172938647
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|nuevo asiento
+      maia v37 sin nervios 4|Take 001|BaseLayer
+  - first:
+      74: 2701141948105613353
+    second: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Simetr\xEDacasquillo
+      alien|Take 001|BaseLayer"
+  - first:
+      74: 800308869341356022
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+  - first:
+      74: 95561074961973277
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+  - first:
+      74: 9135397070427480173
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+  - first:
+      74: -2893953572160066405
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+  - first:
+      74: -227868534478520507
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|asiento|Take
+      001|BaseLayer
+  - first:
+      74: 2290259228668309473
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|casquillo alien|Take
+      001|BaseLayer
+  - first:
+      74: 7215778528106320403
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|nuevo asiento
+      maia v37 sin nervios 4_1|Take 001|BaseLayer
+  - first:
+      74: 6981766466953899589
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|nuevo asiento
+      maia v37 sin nervios 4_3|Take 001|BaseLayer
+  - first:
+      74: 4297594467145351538
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|nuevo asiento
+      maia v37 sin nervios 4|Take 001|BaseLayer
+  - first:
+      74: -1463955316042212332
+    second: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Simetr\xEDacasquillo
+      alien|Take 001|BaseLayer"
+  - first:
+      74: -5347633574513006954
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+  - first:
+      74: 4198569032342027038
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+  - first:
+      74: -1353111445158845193
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+  - first:
+      74: 3396945294802408656
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+  - first:
+      74: -1492698700500442333
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|asiento|Take
+      001|BaseLayer
+  - first:
+      74: 9089657872197388670
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|casquillo alien|Take
+      001|BaseLayer
+  - first:
+      74: 6039736080742897338
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|nuevo asiento
+      maia v37 sin nervios 4_1|Take 001|BaseLayer
+  - first:
+      74: 4605859710787454607
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|nuevo asiento
+      maia v37 sin nervios 4_3|Take 001|BaseLayer
+  - first:
+      74: -531970720632852542
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|nuevo asiento
+      maia v37 sin nervios 4|Take 001|BaseLayer
+  - first:
+      74: -9189607375761052795
+    second: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Simetr\xEDacasquillo
+      alien|Take 001|BaseLayer"
+  - first:
+      74: -4391900012804644755
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+  - first:
+      74: -5614011676027277070
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+  - first:
+      74: 872907456239244258
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+  - first:
+      74: 3454069854075185732
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+  - first:
+      74: 8082295311564509684
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|asiento|Take
+      001|BaseLayer
+  - first:
+      74: -2423439374561774908
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|casquillo alien|Take
+      001|BaseLayer
+  - first:
+      74: 3159789295659410211
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|nuevo asiento
+      maia v37 sin nervios 4_1|Take 001|BaseLayer
+  - first:
+      74: 4506384572721264662
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|nuevo asiento
+      maia v37 sin nervios 4_3|Take 001|BaseLayer
+  - first:
+      74: -5879590467144036270
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|nuevo asiento
+      maia v37 sin nervios 4|Take 001|BaseLayer
+  - first:
+      74: -9015272631774693257
+    second: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Simetr\xEDacasquillo
+      alien|Take 001|BaseLayer"
+  - first:
+      74: 8984193512722220797
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+  - first:
+      74: 7316151637978567711
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+  - first:
+      74: 8913944315344034855
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+  - first:
+      74: -244176916435894360
+    second: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket button
+      head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+  - first:
+      74: -9106354239336439419
+    second: "Simetr\xEDacasquillo alien|asiento|Take 001|BaseLayer"
+  - first:
+      74: -3691917311034750498
+    second: "Simetr\xEDacasquillo alien|casquillo alien|Take 001|BaseLayer"
+  - first:
+      74: -3704481901269304688
+    second: "Simetr\xEDacasquillo alien|nuevo asiento maia v37 sin nervios 4_1|Take
+      001|BaseLayer"
+  - first:
+      74: 5965301311388830393
+    second: "Simetr\xEDacasquillo alien|nuevo asiento maia v37 sin nervios 4_3|Take
+      001|BaseLayer"
+  - first:
+      74: -3165429090816784558
+    second: "Simetr\xEDacasquillo alien|nuevo asiento maia v37 sin nervios 4|Take
+      001|BaseLayer"
+  - first:
+      74: 197113920426496053
+    second: "Simetr\xEDacasquillo alien|Simetr\xEDacasquillo alien|Take 001|BaseLayer"
+  - first:
+      74: -2141158515238777976
+    second: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380 - M6
+      x 16 --- 16S):4|Take"
+  - first:
+      74: 1021061197754214266
+    second: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380 - M6
+      x 16 --- 16S):5|Take"
+  - first:
+      74: 3338455366565869619
+    second: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380 - M6
+      x 16 --- 16S):6|Take"
+  - first:
+      74: 3259638417232581091
+    second: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380 - M6
+      x 16 --- 16S):7|Take"
+  - first:
+      74: 486837933662637505
+    second: casquillo alien|asiento|Take 001|BaseLayer
+  - first:
+      74: -4992965382782185976
+    second: casquillo alien|casquillo alien|Take 001|BaseLayer
+  - first:
+      74: -2272790632167965192
+    second: casquillo alien|nuevo asiento maia v37 sin nervios 4_1|Take 001|BaseLayer
+  - first:
+      74: -5824403951506695454
+    second: casquillo alien|nuevo asiento maia v37 sin nervios 4_3|Take 001|BaseLayer
+  - first:
+      74: -6650383360855864362
+    second: casquillo alien|nuevo asiento maia v37 sin nervios 4|Take 001|BaseLayer
+  - first:
+      74: 1147669920472521240
+    second: "casquillo alien|Simetr\xEDacasquillo alien|Take 001|BaseLayer"
+  - first:
+      74: 8926029419759697703
+    second: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+  - first:
+      74: 3174094652223109489
+    second: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+  - first:
+      74: -7250803402128753432
+    second: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+  - first:
+      74: -1871611931773227998
+    second: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+  - first:
+      74: -3862610080673358849
+    second: nuevo asiento maia v37 sin nervios 4_3|asiento|Take 001|BaseLayer
+  - first:
+      74: 7925699465287244962
+    second: nuevo asiento maia v37 sin nervios 4_3|casquillo alien|Take 001|BaseLayer
+  - first:
+      74: -1509535983868006189
+    second: nuevo asiento maia v37 sin nervios 4_3|nuevo asiento maia v37 sin nervios
+      4_1|Take 001|BaseLayer
+  - first:
+      74: 5372968505752213764
+    second: nuevo asiento maia v37 sin nervios 4_3|nuevo asiento maia v37 sin nervios
+      4_3|Take 001|BaseLayer
+  - first:
+      74: -7290964758194333468
+    second: nuevo asiento maia v37 sin nervios 4_3|nuevo asiento maia v37 sin nervios
+      4|Take 001|BaseLayer
+  - first:
+      74: 7249470481706261422
+    second: "nuevo asiento maia v37 sin nervios 4_3|Simetr\xEDacasquillo alien|Take
+      001|BaseLayer"
+  - first:
+      74: -7194194763391987014
+    second: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):4|Take
+  - first:
+      74: -4870078757327624394
+    second: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):5|Take
+  - first:
+      74: 7357630909958723252
+    second: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):6|Take
+  - first:
+      74: -1886149939363296224
+    second: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):7|Take
+  - first:
+      74: 8749878826282474697
+    second: nuevo asiento maia v37 sin nervios 4_1|asiento|Take 001|BaseLayer
+  - first:
+      74: -7434445064737680087
+    second: nuevo asiento maia v37 sin nervios 4_1|casquillo alien|Take 001|BaseLayer
+  - first:
+      74: 5505695938563961057
+    second: nuevo asiento maia v37 sin nervios 4_1|nuevo asiento maia v37 sin nervios
+      4_1|Take 001|BaseLayer
+  - first:
+      74: -4964989549915868986
+    second: nuevo asiento maia v37 sin nervios 4_1|nuevo asiento maia v37 sin nervios
+      4_3|Take 001|BaseLayer
+  - first:
+      74: -6970768006549557382
+    second: nuevo asiento maia v37 sin nervios 4_1|nuevo asiento maia v37 sin nervios
+      4|Take 001|BaseLayer
+  - first:
+      74: 29994200191338383
+    second: "nuevo asiento maia v37 sin nervios 4_1|Simetr\xEDacasquillo alien|Take
+      001|BaseLayer"
+  - first:
+      74: -7543579672365625570
+    second: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):4|Take
+  - first:
+      74: 3206425899136211445
+    second: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):5|Take
+  - first:
+      74: -3928283830071686008
+    second: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):6|Take
+  - first:
+      74: 41082953085104571
+    second: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):7|Take
+  - first:
+      74: -8580238717591730735
+    second: nuevo asiento maia v37 sin nervios 4|asiento|Take 001|BaseLayer
+  - first:
+      74: 5369324956272164764
+    second: nuevo asiento maia v37 sin nervios 4|casquillo alien|Take 001|BaseLayer
+  - first:
+      74: -6409457868353032291
+    second: nuevo asiento maia v37 sin nervios 4|nuevo asiento maia v37 sin nervios
+      4_1|Take 001|BaseLayer
+  - first:
+      74: 6803352031497664057
+    second: nuevo asiento maia v37 sin nervios 4|nuevo asiento maia v37 sin nervios
+      4_3|Take 001|BaseLayer
+  - first:
+      74: -7172690309359205205
+    second: nuevo asiento maia v37 sin nervios 4|nuevo asiento maia v37 sin nervios
+      4|Take 001|BaseLayer
+  - first:
+      74: 1308982940087148608
+    second: "nuevo asiento maia v37 sin nervios 4|Simetr\xEDacasquillo alien|Take
+      001|BaseLayer"
+  - first:
+      74: -5324080988178312718
+    second: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):4|Take
+  - first:
+      74: -8043468137466158727
+    second: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):5|Take
+  - first:
+      74: 7261620131688347583
+    second: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):6|Take
+  - first:
+      74: 4943825291709571486
+    second: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+      7380 - M6 x 16 --- 16S):7|Take
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -50,11 +403,3028 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Take 001
-      takeName: Take 001
-      internalID: 1827226128182048838
+      name: asiento|asiento|Take 001|BaseLayer
+      takeName: asiento|asiento|Take 001|BaseLayer
+      internalID: -6039239952407548670
       firstFrame: 0
-      lastFrame: 100
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: asiento|casquillo alien|Take 001|BaseLayer
+      takeName: asiento|casquillo alien|Take 001|BaseLayer
+      internalID: -960597201465749794
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: asiento|nuevo asiento maia v37 sin nervios 4_1|Take 001|BaseLayer
+      takeName: asiento|nuevo asiento maia v37 sin nervios 4_1|Take 001|BaseLayer
+      internalID: -2248630266811459755
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: asiento|nuevo asiento maia v37 sin nervios 4_3|Take 001|BaseLayer
+      takeName: asiento|nuevo asiento maia v37 sin nervios 4_3|Take 001|BaseLayer
+      internalID: -6585469118655641525
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: asiento|nuevo asiento maia v37 sin nervios 4|Take 001|BaseLayer
+      takeName: asiento|nuevo asiento maia v37 sin nervios 4|Take 001|BaseLayer
+      internalID: 6459674230053448190
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "asiento|Simetr\xEDacasquillo alien|Take 001|BaseLayer"
+      takeName: "asiento|Simetr\xEDacasquillo alien|Take 001|BaseLayer"
+      internalID: -74324251323674005
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      takeName: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      internalID: -2026193862100692823
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      takeName: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      internalID: -5324423585312669226
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      takeName: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      internalID: -968263097061289790
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      takeName: asiento|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      internalID: 4932292260101611384
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|asiento|Take
+        001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|asiento|Take
+        001|BaseLayer
+      internalID: 1879563640781923479
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|casquillo alien|Take
+        001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|casquillo
+        alien|Take 001|BaseLayer
+      internalID: 3885516467545396254
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|nuevo asiento
+        maia v37 sin nervios 4_1|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|nuevo asiento
+        maia v37 sin nervios 4_1|Take 001|BaseLayer
+      internalID: -544923046264994449
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|nuevo asiento
+        maia v37 sin nervios 4_3|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|nuevo asiento
+        maia v37 sin nervios 4_3|Take 001|BaseLayer
+      internalID: 2767657853384911306
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|nuevo asiento
+        maia v37 sin nervios 4|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|nuevo asiento
+        maia v37 sin nervios 4|Take 001|BaseLayer
+      internalID: -8586175222172938647
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Simetr\xEDacasquillo
+        alien|Take 001|BaseLayer"
+      takeName: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Simetr\xEDacasquillo
+        alien|Take 001|BaseLayer"
+      internalID: 2701141948105613353
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      internalID: 800308869341356022
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      internalID: 95561074961973277
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      internalID: 9135397070427480173
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      internalID: -2893953572160066405
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|asiento|Take
+        001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|asiento|Take
+        001|BaseLayer
+      internalID: -227868534478520507
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|casquillo alien|Take
+        001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|casquillo
+        alien|Take 001|BaseLayer
+      internalID: 2290259228668309473
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|nuevo asiento
+        maia v37 sin nervios 4_1|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|nuevo asiento
+        maia v37 sin nervios 4_1|Take 001|BaseLayer
+      internalID: 7215778528106320403
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|nuevo asiento
+        maia v37 sin nervios 4_3|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|nuevo asiento
+        maia v37 sin nervios 4_3|Take 001|BaseLayer
+      internalID: 6981766466953899589
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|nuevo asiento
+        maia v37 sin nervios 4|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|nuevo asiento
+        maia v37 sin nervios 4|Take 001|BaseLayer
+      internalID: 4297594467145351538
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Simetr\xEDacasquillo
+        alien|Take 001|BaseLayer"
+      takeName: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Simetr\xEDacasquillo
+        alien|Take 001|BaseLayer"
+      internalID: -1463955316042212332
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      internalID: -5347633574513006954
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      internalID: 4198569032342027038
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      internalID: -1353111445158845193
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      internalID: 3396945294802408656
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|asiento|Take
+        001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|asiento|Take
+        001|BaseLayer
+      internalID: -1492698700500442333
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|casquillo alien|Take
+        001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|casquillo
+        alien|Take 001|BaseLayer
+      internalID: 9089657872197388670
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|nuevo asiento
+        maia v37 sin nervios 4_1|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|nuevo asiento
+        maia v37 sin nervios 4_1|Take 001|BaseLayer
+      internalID: 6039736080742897338
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|nuevo asiento
+        maia v37 sin nervios 4_3|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|nuevo asiento
+        maia v37 sin nervios 4_3|Take 001|BaseLayer
+      internalID: 4605859710787454607
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|nuevo asiento
+        maia v37 sin nervios 4|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|nuevo asiento
+        maia v37 sin nervios 4|Take 001|BaseLayer
+      internalID: -531970720632852542
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Simetr\xEDacasquillo
+        alien|Take 001|BaseLayer"
+      takeName: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Simetr\xEDacasquillo
+        alien|Take 001|BaseLayer"
+      internalID: -9189607375761052795
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      internalID: -4391900012804644755
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      internalID: -5614011676027277070
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      internalID: 872907456239244258
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      internalID: 3454069854075185732
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|asiento|Take
+        001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|asiento|Take
+        001|BaseLayer
+      internalID: 8082295311564509684
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|casquillo alien|Take
+        001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|casquillo
+        alien|Take 001|BaseLayer
+      internalID: -2423439374561774908
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|nuevo asiento
+        maia v37 sin nervios 4_1|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|nuevo asiento
+        maia v37 sin nervios 4_1|Take 001|BaseLayer
+      internalID: 3159789295659410211
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|nuevo asiento
+        maia v37 sin nervios 4_3|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|nuevo asiento
+        maia v37 sin nervios 4_3|Take 001|BaseLayer
+      internalID: 4506384572721264662
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|nuevo asiento
+        maia v37 sin nervios 4|Take 001|BaseLayer
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|nuevo asiento
+        maia v37 sin nervios 4|Take 001|BaseLayer
+      internalID: -5879590467144036270
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Simetr\xEDacasquillo
+        alien|Take 001|BaseLayer"
+      takeName: "socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Simetr\xEDacasquillo
+        alien|Take 001|BaseLayer"
+      internalID: -9015272631774693257
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      internalID: 8984193512722220797
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      internalID: 7316151637978567711
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      internalID: 8913944315344034855
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket button
+        head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      takeName: socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|socket
+        button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      internalID: -244176916435894360
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Simetr\xEDacasquillo alien|asiento|Take 001|BaseLayer"
+      takeName: "Simetr\xEDacasquillo alien|asiento|Take 001|BaseLayer"
+      internalID: -9106354239336439419
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Simetr\xEDacasquillo alien|casquillo alien|Take 001|BaseLayer"
+      takeName: "Simetr\xEDacasquillo alien|casquillo alien|Take 001|BaseLayer"
+      internalID: -3691917311034750498
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Simetr\xEDacasquillo alien|nuevo asiento maia v37 sin nervios 4_1|Take
+        001|BaseLayer"
+      takeName: "Simetr\xEDacasquillo alien|nuevo asiento maia v37 sin nervios 4_1|Take
+        001|BaseLayer"
+      internalID: -3704481901269304688
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Simetr\xEDacasquillo alien|nuevo asiento maia v37 sin nervios 4_3|Take
+        001|BaseLayer"
+      takeName: "Simetr\xEDacasquillo alien|nuevo asiento maia v37 sin nervios 4_3|Take
+        001|BaseLayer"
+      internalID: 5965301311388830393
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Simetr\xEDacasquillo alien|nuevo asiento maia v37 sin nervios 4|Take
+        001|BaseLayer"
+      takeName: "Simetr\xEDacasquillo alien|nuevo asiento maia v37 sin nervios 4|Take
+        001|BaseLayer"
+      internalID: -3165429090816784558
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Simetr\xEDacasquillo alien|Simetr\xEDacasquillo alien|Take 001|BaseLayer"
+      takeName: "Simetr\xEDacasquillo alien|Simetr\xEDacasquillo alien|Take 001|BaseLayer"
+      internalID: 197113920426496053
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380 - M6
+        x 16 --- 16S):4|Take"
+      takeName: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380
+        - M6 x 16 --- 16S):4|Take"
+      internalID: -2141158515238777976
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380 - M6
+        x 16 --- 16S):5|Take"
+      takeName: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380
+        - M6 x 16 --- 16S):5|Take"
+      internalID: 1021061197754214266
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380 - M6
+        x 16 --- 16S):6|Take"
+      takeName: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380
+        - M6 x 16 --- 16S):6|Take"
+      internalID: 3338455366565869619
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380 - M6
+        x 16 --- 16S):7|Take"
+      takeName: "Simetr\xEDacasquillo alien|socket button head screw_iso(ISO 7380
+        - M6 x 16 --- 16S):7|Take"
+      internalID: 3259638417232581091
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casquillo alien|asiento|Take 001|BaseLayer
+      takeName: casquillo alien|asiento|Take 001|BaseLayer
+      internalID: 486837933662637505
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casquillo alien|casquillo alien|Take 001|BaseLayer
+      takeName: casquillo alien|casquillo alien|Take 001|BaseLayer
+      internalID: -4992965382782185976
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casquillo alien|nuevo asiento maia v37 sin nervios 4_1|Take 001|BaseLayer
+      takeName: casquillo alien|nuevo asiento maia v37 sin nervios 4_1|Take 001|BaseLayer
+      internalID: -2272790632167965192
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casquillo alien|nuevo asiento maia v37 sin nervios 4_3|Take 001|BaseLayer
+      takeName: casquillo alien|nuevo asiento maia v37 sin nervios 4_3|Take 001|BaseLayer
+      internalID: -5824403951506695454
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casquillo alien|nuevo asiento maia v37 sin nervios 4|Take 001|BaseLayer
+      takeName: casquillo alien|nuevo asiento maia v37 sin nervios 4|Take 001|BaseLayer
+      internalID: -6650383360855864362
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "casquillo alien|Simetr\xEDacasquillo alien|Take 001|BaseLayer"
+      takeName: "casquillo alien|Simetr\xEDacasquillo alien|Take 001|BaseLayer"
+      internalID: 1147669920472521240
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):4|Take
+      takeName: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 ---
+        16S):4|Take
+      internalID: 8926029419759697703
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):5|Take
+      takeName: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 ---
+        16S):5|Take
+      internalID: 3174094652223109489
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):6|Take
+      takeName: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 ---
+        16S):6|Take
+      internalID: -7250803402128753432
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 --- 16S):7|Take
+      takeName: casquillo alien|socket button head screw_iso(ISO 7380 - M6 x 16 ---
+        16S):7|Take
+      internalID: -1871611931773227998
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_3|asiento|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4_3|asiento|Take 001|BaseLayer
+      internalID: -3862610080673358849
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_3|casquillo alien|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4_3|casquillo alien|Take 001|BaseLayer
+      internalID: 7925699465287244962
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_3|nuevo asiento maia v37 sin nervios
+        4_1|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4_3|nuevo asiento maia v37 sin
+        nervios 4_1|Take 001|BaseLayer
+      internalID: -1509535983868006189
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_3|nuevo asiento maia v37 sin nervios
+        4_3|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4_3|nuevo asiento maia v37 sin
+        nervios 4_3|Take 001|BaseLayer
+      internalID: 5372968505752213764
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_3|nuevo asiento maia v37 sin nervios
+        4|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4_3|nuevo asiento maia v37 sin
+        nervios 4|Take 001|BaseLayer
+      internalID: -7290964758194333468
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "nuevo asiento maia v37 sin nervios 4_3|Simetr\xEDacasquillo alien|Take
+        001|BaseLayer"
+      takeName: "nuevo asiento maia v37 sin nervios 4_3|Simetr\xEDacasquillo alien|Take
+        001|BaseLayer"
+      internalID: 7249470481706261422
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):4|Take
+      takeName: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):4|Take
+      internalID: -7194194763391987014
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):5|Take
+      takeName: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):5|Take
+      internalID: -4870078757327624394
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):6|Take
+      takeName: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):6|Take
+      internalID: 7357630909958723252
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):7|Take
+      takeName: nuevo asiento maia v37 sin nervios 4_3|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):7|Take
+      internalID: -1886149939363296224
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_1|asiento|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4_1|asiento|Take 001|BaseLayer
+      internalID: 8749878826282474697
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_1|casquillo alien|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4_1|casquillo alien|Take 001|BaseLayer
+      internalID: -7434445064737680087
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_1|nuevo asiento maia v37 sin nervios
+        4_1|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4_1|nuevo asiento maia v37 sin
+        nervios 4_1|Take 001|BaseLayer
+      internalID: 5505695938563961057
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_1|nuevo asiento maia v37 sin nervios
+        4_3|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4_1|nuevo asiento maia v37 sin
+        nervios 4_3|Take 001|BaseLayer
+      internalID: -4964989549915868986
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_1|nuevo asiento maia v37 sin nervios
+        4|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4_1|nuevo asiento maia v37 sin
+        nervios 4|Take 001|BaseLayer
+      internalID: -6970768006549557382
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "nuevo asiento maia v37 sin nervios 4_1|Simetr\xEDacasquillo alien|Take
+        001|BaseLayer"
+      takeName: "nuevo asiento maia v37 sin nervios 4_1|Simetr\xEDacasquillo alien|Take
+        001|BaseLayer"
+      internalID: 29994200191338383
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):4|Take
+      takeName: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):4|Take
+      internalID: -7543579672365625570
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):5|Take
+      takeName: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):5|Take
+      internalID: 3206425899136211445
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):6|Take
+      takeName: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):6|Take
+      internalID: -3928283830071686008
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):7|Take
+      takeName: nuevo asiento maia v37 sin nervios 4_1|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):7|Take
+      internalID: 41082953085104571
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4|asiento|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4|asiento|Take 001|BaseLayer
+      internalID: -8580238717591730735
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4|casquillo alien|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4|casquillo alien|Take 001|BaseLayer
+      internalID: 5369324956272164764
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4|nuevo asiento maia v37 sin nervios
+        4_1|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4|nuevo asiento maia v37 sin nervios
+        4_1|Take 001|BaseLayer
+      internalID: -6409457868353032291
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4|nuevo asiento maia v37 sin nervios
+        4_3|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4|nuevo asiento maia v37 sin nervios
+        4_3|Take 001|BaseLayer
+      internalID: 6803352031497664057
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4|nuevo asiento maia v37 sin nervios
+        4|Take 001|BaseLayer
+      takeName: nuevo asiento maia v37 sin nervios 4|nuevo asiento maia v37 sin nervios
+        4|Take 001|BaseLayer
+      internalID: -7172690309359205205
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "nuevo asiento maia v37 sin nervios 4|Simetr\xEDacasquillo alien|Take
+        001|BaseLayer"
+      takeName: "nuevo asiento maia v37 sin nervios 4|Simetr\xEDacasquillo alien|Take
+        001|BaseLayer"
+      internalID: 1308982940087148608
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):4|Take
+      takeName: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):4|Take
+      internalID: -5324080988178312718
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):5|Take
+      takeName: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):5|Take
+      internalID: -8043468137466158727
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):6|Take
+      takeName: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):6|Take
+      internalID: 7261620131688347583
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):7|Take
+      takeName: nuevo asiento maia v37 sin nervios 4|socket button head screw_iso(ISO
+        7380 - M6 x 16 --- 16S):7|Take
+      internalID: 4943825291709571486
+      firstFrame: 0
+      lastFrame: 1
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

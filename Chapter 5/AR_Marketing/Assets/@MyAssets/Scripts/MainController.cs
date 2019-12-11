@@ -7,8 +7,8 @@ public class MainController : MonoBehaviour
 {
     public Material[] materials;
     public Texture2D[] textures;
-
     public Image color_button;
+
     private Color32 red = new Color32(159, 40, 40, 255);
     private Color32 blue = new Color32(40, 74, 159, 255);
 
@@ -19,7 +19,6 @@ public class MainController : MonoBehaviour
         {
             material.mainTexture = textures[0];
         }
-
         color_button.color = red;
     }
 
@@ -38,7 +37,6 @@ public class MainController : MonoBehaviour
             else
                 material.mainTexture = textures[0];
         }
-
         if (color_button.color == red)
             color_button.color = blue;
         else

@@ -1,3 +1,47 @@
+﻿3.0.1
+* 增加Windows上对摄像头的YUY2和I420像素格式的支持，减少出现黑屏的情况
+* 修正Objective-C示例中的Renderer的多个实例状态不独立，导致第二次进入时会在glDrawArrays处崩溃的问题
+* 增加对每通道16位的png图片的支持
+* 修正Unity HelloAR_Coloring3D示例在非OpenGLES和屏幕旋转等情况下贴图坐标出错的问题
+* 修正Unity示例默认不自动调焦的问题
+* 修正Unity示例中运行的一瞬间模型仍然显示，之后才消失的问题
+* 去除Unity示例初始化成功界面提示
+* 在Unity示例中增加对第二摄像头的支持(例如：在Windows/Mac上内置摄像头之外的USB摄像头)
+* 将ExternalCamera改名为CustomCamera以减少歧义
+
+3.0.0
+++ 更灵活的基于数据流的组件化API
+++ 表面跟踪
++ Image Target Data生成
++ 编程语言支持：C# for .Net/Mono支持
++ 编程语言支持：C++11升级到C++17
++ 编程语言支持：Kotlin/Swift升级并支持Optional
++ Unity插件重写并开源，底层API与非Unity统一
++ Unity插件涂涂乐示例新增截取静态图像绘制小熊的功能
++ Unity插件新增key填错等UI提示
++ Android ARM64支持
++ 非OpenGLES2的渲染API支持(除VideoPlayer和Recorder以外实现渲染API中立)
++ 外部摄像头接入
++ 外部算法接入
++ 降低包体大小
+- 二维码识别功能移除
+- 渲染器移除，改为提供各平台示例渲染代码
+* 支持从内存加载识别图
+* CloudRecognizer支持https(Android和iOS上)
+* Android CameraDevice增加对Camera2的支持
+* 修正Android 9.0上录屏崩溃的问题
+* 支持Unity 5.6, 2017.4, 2018.4, 2019.1，去除对5.6以下版本的支持
+* 去除对iOS 7及以下版本的支持
+* Unity插件使用CommandBuffer绘制相机背景
+* 修复了一些稳定性问题
+
+2.3.0
++ 优化图像跟踪算法
++ 提升EasyAR CRS连接的安全性
+* 修复了在Android 8及新版本上ARSceneTracker停止时崩溃
+* 修复了在Unity 2018上使用Android/iOS/Mac发布黑屏
+* 修复了在iPhone XS/XS Max上的崩溃
+
 2.2.0
 + 优化图像跟踪算法
 + 添加ImageTracker模式选择的接口

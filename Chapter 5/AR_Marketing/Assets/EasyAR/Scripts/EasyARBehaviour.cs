@@ -1,51 +1,129 @@
-//=============================================================================================================================
+﻿//================================================================================================================================
 //
-// Copyright (c) 2015-2017 VisionStar Information Technology (Shanghai) Co., Ltd. All Rights Reserved.
-// EasyAR is the registered trademark or trademark of VisionStar Information Technology (Shanghai) Co., Ltd in China
-// and other countries for the augmented reality technology developed by VisionStar Information Technology (Shanghai) Co., Ltd.
+//  Copyright (c) 2015-2019 VisionStar Information Technology (Shanghai) Co., Ltd. All Rights Reserved.
+//  EasyAR is the registered trademark or trademark of VisionStar Information Technology (Shanghai) Co., Ltd in China
+//  and other countries for the augmented reality technology developed by VisionStar Information Technology (Shanghai) Co., Ltd.
 //
-//=============================================================================================================================
-
+//================================================================================================================================
 using UnityEngine;
-
-namespace EasyAR
+using System.Collections.Generic;
+using System.Collections;
+namespace easyar
 {
     public class EasyARBehaviour : MonoBehaviour
     {
-        [TextArea(1, 10)]
-        public string Key;
-        private bool initialized;
+        public static bool Initialized { get; private set; }
+        public static DelayedCallbackScheduler Scheduler { get; private set; }
 
-        protected virtual void Awake()
-        {
-            Initialize();
-        }
 
-        protected virtual void OnApplicationPause(bool pause)
+        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
+        public static void GlobalInitialization()
         {
-            if (pause)
+            Initialized = false;
+            Scheduler = new DelayedCallbackScheduler();
+            var easyarSettings = Resources.Load<EasyARSettings>("EasyARKey");
+            var key = easyarSettings.EasyARKey;
+#if UNITY_ANDROID && !UNITY_EDITOR
+            using (var unityPlayerClass = new AndroidJavaClass("com.unity3d.player.UnityPlayer"))
+            using (var currentActivity = unityPlayerClass.GetStatic<AndroidJavaObject>("currentActivity"))
+            using (var easyarEngineClass = new AndroidJavaClass("cn.easyar.Engine"))
             {
-                Engine.Pause();
+                var activityclassloader = currentActivity.Call<AndroidJavaObject>("getClass").Call<AndroidJavaObject>("getClassLoader");
+                if (activityclassloader == null)
+                {
+                    Debug.Log("ActivityClassLoader is null");
+                }
+                if (!easyarEngineClass.CallStatic<bool>("initialize", currentActivity, key))
+                {
+                    Debug.Log("EasyAR initialization failed");
+                    Initialized = false;
+                    return;
+                }else
+                {
+                    Initialized = true;
+                }
+            }
+#else
+            if (!Engine.initialize(key))
+            {
+                Debug.LogError("[EasyAR] EasyAR initialization failed");
+                Initialized = false;
+                return;
             }
             else
             {
-                Engine.Resume();
+                Debug.Log("[EasyAR] EasyAR initialization successful");
+                Debug.Log("[EasyAR] EasyAR Version : " + Engine.versionString());
+                Initialized = true;
+            }
+#endif
+#if UNITY_EDITOR
+            Log.setLogFunc((LogLevel, msg) =>
+            {
+                switch (LogLevel)
+                {
+                    case LogLevel.Error:
+                        Debug.LogError("[EasyAR]" + msg);
+                        break;
+                    case LogLevel.Warning:
+                        Debug.LogWarning("[EasyAR]" + msg);
+                        break;
+                    case LogLevel.Info:
+                        Debug.Log("[EasyAR]" + msg);
+                        break;
+                    default:
+                        break;
+                }
+            });
+#endif
+            System.AppDomain.CurrentDomain.UnhandledException += (sender, e) =>
+            {
+                Debug.Log("UnhandledException: " + e.ExceptionObject.ToString());
+            };
+            System.AppDomain.CurrentDomain.DomainUnload += (sender, e) =>
+            {
+                if (Scheduler != null)
+                {
+                    Scheduler.Dispose();
+                }
+                Log.resetLogFunc();
+            };
+        }
+
+        private void Awake()
+        {
+            StartCoroutine(waitForUI());
+        }
+
+        IEnumerator waitForUI()
+        {
+            yield return new WaitForSeconds(1f);
+            if (!Initialized)
+            {
+                GUIPopup.AddShowMessage(Engine.errorMessage(), 10000);
             }
         }
 
-        protected virtual void OnApplicationQuit()
+        public void Update()
         {
-            Engine.OnApplicationQuit();
+            if (Scheduler != null)
+            {
+                while (Scheduler.runOne())
+                {
+                }
+            }
         }
 
-        public void Initialize()
+        public void OnApplicationPause(bool pause)
         {
-            if (initialized)
-                return;
-            initialized = true;
-            ARBuilder.Instance.InitializeEasyAR(Key);
-            if (!ARBuilder.Instance.EasyBuild())
-                Debug.LogError("fail to build AR");
+            if (pause)
+            {
+                Engine.onPause();
+            }
+            else
+            {
+                Engine.onResume();
+            }
         }
     }
 }
