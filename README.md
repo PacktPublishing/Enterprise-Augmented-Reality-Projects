@@ -9,7 +9,7 @@ This is the code repository for [	Enterprise Augmented Reality Projects](https:/
 ## What is this book about?
 Augmented reality (AR) is expanding its scope from just being used in mobile and game applications to enterprise. Different industries are using AR to enhance assembly line visualization, guide operators performing difficult tasks, attract more customers, and even improve training techniques. In this book, you'll gain comprehensive insights into different aspects of developing AR-based apps for six different enterprise sectors, focusing on market needs and choosing the most suitable tool in each case.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Understand the basics of Unity application development and C# scripting
 * Learn how to use Android Studio along with ARCore and Sceneform to build AR prototypes for Android devices
 * Enable AR experiences on the web with ARCore and WebAR
@@ -66,21 +66,18 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Hands-On Game Development Patterns with Unity 2019 [[Packt]](https://www.packtpub.com/game-development/hands-game-development-patterns-unity-2019?utm_source=github&utm_medium=repository&utm_campaign=9781789349337) [[Amazon]](https://www.amazon.com/dp/1789349338)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Unity Game Optimization - Third Edition [[Packt]](https://www.packtpub.com/game-development/unity-game-optimization-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781838556518) [[Amazon]](https://www.amazon.com/dp/1838556516)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+## Get to Know the Authors
+**Jorge R. López Benito**
+is a tech entrepreneur passionate about emerging and exponential technologies with more than 10 years of experience in researching and building Augmented Reality (AR), Virtual Reality (VR), and Artificial Intelligence (AI) products. In 2010, he became the co-founder and CEO of CreativiTIC, which focused on the research of disruptive technologies, new business models, and market innovation trends. He has been involved in several R&D projects throughout his career, including FP7 and H2020 European projects, and because of that, he was named as a Key Innovator in AR & Deep Learning Technologies by the European Commission; whom he also supports as an independent expert on interactive technologies to explore emerging trends and identify opportunities for impact across the industries, and also as a Jury Member at the European Innovation Council (EIC) Accelerator.
 
-**Author Name**
-Bio
+**Enara Artetxe González**
+is the co-founder and CTO of CreativiTIC, a company dedicated to Mixed Reality (MR) technologies. With a bachelor's degree in telecommunications engineering, she has been working with Augmented Reality (AR) and Virtual Reality (VR) technologies for more than 10 years, developing innovative solutions for desktop, mobile, web, and head-mounted display (HMD) platforms in fields such as industry, healthcare, and education. She has participated in several R&D projects including FP7 and H2020 European research projects, and because of that, she was named as a Key Innovator in AR & Deep Learning Technologies by the European Commission. She actively supports vocational actions to involve girls in science and technology through STEAM methodologies.
 
 
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
