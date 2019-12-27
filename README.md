@@ -37,7 +37,7 @@ h1 {
 **Following is what you need for this book:**
 This book is for anyone interested in emerging and interactive technologies or looking to build AR applications for any domain. Although, no prior augmented reality experience is required, having some skills in object-oriented programming (OOP) will be helpful.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-8).
 
 ### Software and Hardware List
 
