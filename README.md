@@ -1,6 +1,6 @@
 # Enterprise Augmented Reality Projects
 
-<a href="https://www.packtpub.com/mobile/enterprise-augmented-reality-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789807400"><img src="Cover Image URL of the Book" alt="	Enterprise Augmented Reality Projects" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/mobile/enterprise-augmented-reality-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789807400"><img src="https://www.packtpub.com/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/9/7/9781789807400-original_2.jpg" height="256px" align="right"></a>
 
 This is the code repository for [	Enterprise Augmented Reality Projects](https://www.packtpub.com/mobile/enterprise-augmented-reality-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789807400), published by Packt.
 
