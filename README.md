@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/enterprise-augmented-reality-projects/9781789807400)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789807409).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Enterprise Augmented Reality Projects
 
 <a href="https://www.packtpub.com/mobile/enterprise-augmented-reality-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789807400"><img src="https://www.packtpub.com/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/9/7/9781789807400-original_2.jpg" height="256px" align="right"></a>
